@@ -5,7 +5,7 @@ functioning Proto Conv executor, along with a Level 7 security context,
 and--Coming Soon--a LuaU Decompiler*.
 
 Constex is a side project created by Aylumus, whose interests are in
-reverse engineering, C#, LuaU, and C++. You can apply for constex at:
+reverse engineering, LuaU, and C++. You can apply for constex at:
 aylumus.github.io/constex
 
 *Decompiler Coming Soon.
